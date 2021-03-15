@@ -1,0 +1,18 @@
+h1 {
+    color: red;
+}
+
+img {
+    width: 550px;
+    border-radius: 10px;
+    border: black;
+
+}
+
+.Python {
+    color: blue;
+}
+
+.Javascript {
+    color: blueviolet;
+}
