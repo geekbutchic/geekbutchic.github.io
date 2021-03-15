@@ -1,0 +1,33 @@
+h1 {
+    color: red;
+}
+
+/* .rotated {
+    transform: rotate(45deg);
+    background-color: blue;
+} */
+
+img {
+    width: 550px;
+    border-radius: 10px;
+    border: black;
+    filter: blur(3px);
+}
+
+.Python {
+    color: blue;
+}
+
+.Javascript {
+    color: blueviolet;
+}
+
+.Python:hover {
+    display: block;
+    color: red;
+}
+
+.Javascript:hover {
+    display: block;
+    color: green;
+}
